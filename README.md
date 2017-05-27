@@ -1,2 +1,2 @@
 # python-samples
-My collection python coding samples
+My collection of Python coding samples
